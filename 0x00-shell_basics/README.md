@@ -1,1 +1,1 @@
-Script to delete a directory
+Script that changes the working directory to the previous one
