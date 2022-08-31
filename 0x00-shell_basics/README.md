@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+script to change from working directory to root
