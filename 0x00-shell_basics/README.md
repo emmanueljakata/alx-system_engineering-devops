@@ -1,1 +1,1 @@
-script to change from working directory to root
+Script to Display current directory contents in a long format
