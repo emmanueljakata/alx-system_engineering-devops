@@ -1,1 +1,1 @@
-Scipt to switch user to betty
+Sript to print current user
