@@ -1,7 +1,1 @@
-script that creates a new local variable.
-
-
-
-Name: BEST
-
-Value: School
+script that creates a new global variable
